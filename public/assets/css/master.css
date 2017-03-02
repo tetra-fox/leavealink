@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+*:focus {
+    outline: none;
+}
+#superSpookyHackerCode {
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+    resize: none;
+    padding: 0;
+    /* animated */
+    height: 0;
+    opacity: 0;
+    transition: height .5s ease, opacity .5s ease;
+}
+#main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#ver {
+    color: #BDBDBD;
+    font-size: 12px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+.mdl-progress__indeterminate {
+    width: 100%;
+}
+.mdl-button--fab {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 24px;
+    right: 0;
+    margin-right: 24px;
+}
+.mdl-dialog {
+    width: fit-content;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}
