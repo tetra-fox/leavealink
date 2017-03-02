@@ -21,7 +21,11 @@ app.get("/info", function(req, res) {
 
 app.post("/submit", function(req, res) {
     res.setHeader("Content-Type", "application/json");
-    req.body.url.startsWith("https://") || req.body.url.startsWith("http://") ? url = req.body.url : url = "http://" + req.body.url;
+    if (req.body.url.startsWith("https://") || req.body.url.startsWith("http://")) {
+        url = req.body.url;
+    } else {
+        url = "http://" + req.body.url;
+    }
 
     request(url, function(error, response, body) {
         if (!error && response.statusCode == 200) {

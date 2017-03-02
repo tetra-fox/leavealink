@@ -1,21 +1,22 @@
 {
-   "name":"leavealink",
-   "version":"1.0.2",
-   "description":"leave a link for the next person to go to",
-   "main":"index.js",
-   "scripts":{
-      "test":"echo \"Error: no test specified\" && exit 1"
-   },
-   "author":"tetra-fox",
-   "license":"MIT",
-   "repository":{
-      "type":"git",
-      "url":"https://github.com/tetra-fox/leavealink.git"
-   },
-   "dependencies":{
-      "body-parser":"^1.16.0",
-      "express":"^4.14.1",
-      "redis":"^2.6.5",
-      "request":"^2.79.0"
-   }
+  "name": "leavealink",
+  "version": "1.0.2",
+  "description": "leave a link for the next person to go to",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint index.js"
+  },
+  "author": "tetra-fox",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tetra-fox/leavealink.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "jshint": "^2.9.4",
+    "redis": "^2.6.5",
+    "request": "^2.79.0"
+  }
 }
