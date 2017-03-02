@@ -1,4 +1,4 @@
-# leavealink
+# leavealink ![build status](https://travis-ci.org/tetra-fox/leavealink.svg?branch=develop)
 leave a link for the next person to go to
 
 # setup
