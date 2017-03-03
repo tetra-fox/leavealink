@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/tetrafox
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://leavealink.tk
+  * I am tetrafox (https://keybase.io/tetrafox) on keybase.
+  * I have a public key with fingerprint 266B F4C6 9765 4D71 200F  7C54 9624 10C7 8D56 3D72
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e978dd33aa149979006c33143d3b83e94c86ed0c6390eef8c4425fca0fd408a70a",
+            "fingerprint": "266bf4c697654d71200f7c54962410c78d563d72",
+            "host": "keybase.io",
+            "key_id": "962410c78d563d72",
+            "kid": "0101e978dd33aa149979006c33143d3b83e94c86ed0c6390eef8c4425fca0fd408a70a",
+            "uid": "294035107061a4cc2a8a351c3d264a19",
+            "username": "tetrafox"
+        },
+        "revoke": {
+            "sig_ids": [
+                "d1da7475f003ccb317af0e8ba1ffdc9970028176e30917c672d6dd20529005f30f"
+            ]
+        },
+        "service": {
+            "hostname": "leavealink.tk",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1488577314,
+    "expire_in": 157680000,
+    "prev": "38a4a1f9d188b83c32080cd6a432e569eab40e75f83e99f320417862d83ed785",
+    "seqno": 29,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.64
+Comment: https://keybase.io/crypto
+
+yMJzAnicrVJbbFVFFL21FOit+AjGaPxoHEGk1jqvM4+r0tQaRElMEEggt/Vmzsyc
+crj1nNtzTy99pBKiBCFqw4cKRCP+QPohakICNA0B0xi1rUFiY1BiNSpGBR8xEGJi
+cE6Df346P5M9e+211157JpfU5/J1K7ai8Clv+zN1U6cv9+c2nfgODAM/NoOgMAzK
+dv6yvcZW01I5NKAAIILISi6MIUQpRKXkEkKmCUGUGOILYiXVglkDNSMSWhsITSn2
+Aq1gYCgUikMFWkEQRj02qSRhlDpazJgfUM0kZx41HGEIA649KhmmCGrXz2PEcOwK
+t8TVrMKJ81XVtoWxe3NBaV7ef+D/Z93983RYUkg8BDlkSFGtsRLKxZoYzKhCMgNW
+bRKpZ61DpzZNVBAPgJFWkNhaXLaZr9Wwx4mugkIRGGQUp9wLICRa+wRxFUArfIWC
+wGinFUIsEGeWQIm4ZhwbZgyGHnZDeAGBAeh23K5jLdTz5JlL17v3WlWzqjeMym1p
+2QmrJHEa67jXpbakaaVayGSlg5UMu836pessJT+MjFuSq6jZpBrGESggh9RpmNEi
+KoTHubOvFdiBSpjYUpghPM4EdCfrY2uOkgjlHAmkQUI4mzXBUEBtmKIEW49Jq3wK
+rZs9W4EMXJoiLhg2LjZceCCbqy+KQQFLp1P1OE5nXaTS/sSCkQ9OdS3I1eVzCxtu
+yH5vLt94y79/un7JomubL3z/yG8PPbB33cTZyXID/fbBRVunzic73lr75+83rR0H
+lVCOXf362tufLP178IfOd947PvPuG+FQS/JctG7PmZWP335pwZVjr278tXPNj42r
+djz/6GunZu3o4rlVdfUPNxzM3/l6UQwNHfKfXt6cP3/84oGPNqTFM6OzX/bIqx/u
+nm1u2v9Kd/7W96/MDdyxpuXuPz4Tl2/Mze5cebH9iSfPdm3IXWja1DE+MrqXdXaf
+Pnz/wo4VP5f/+qL7wPaZ9heObBtufqxlYmrsl0ur7/vmnOlrx2PLNqb7jk6vb5x6
+KQzumVj+5rJjc59/1XRkFyh+2taxj+Hxn1afu7c4fdvHLzePvnhyf8tdnerEwZv7
+/gHTW1Lb
+=Wb9i
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tetrafox
+
+==================================================================
